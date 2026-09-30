@@ -22,13 +22,22 @@ Using over 51,000 transactions from a multi-category e-commerce platform, this p
 
 ## 🧩 Features & Visualization
 ### Key Features
-- Total Customers
-- Total Profit
-- Average Discount
-- Average Recency
-- Average Frequency
-- Average Monetary
+- **Total Customers** => Total unique customers that has made at least one purchase from the shop
+- **Total Profit** => The sum of profit made
+- **Average Discount** => The average discount received by customers from all segments with unique purchase behaviors
+- **Average Recency** => The average number of days since each customer's most recent purchase
+- **Average Frequency** => The average number of purchases made by each customer
+- **Average Monetary** => The average total spending made by each customer
+
+### Visualization
+-  **Total customers per-segment** => Stacked column chart
+-  **Average of Discount Received per Customer Segments** => Stacked bar chart
+-  **Sum of Total Profit per Customer Segments** => Pie chart
+-  **Comparasion Between the Percentage of Total Customers and the Profit Made per Segment** => Clustered column chart
+-  **Customer Segments and Product Category Filter** => Slicer
 
 ## 📌 Key Insights
 
 ## 🗂️ Data Source 
+The raw (uncleaned) dataset that is used in this project can be downloaded through the link below
+https://www.kaggle.com/datasets/mervemenekse/ecommerce-dataset
