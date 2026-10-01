@@ -8,7 +8,7 @@ Customer Segmentation To Improve Discount Rating (E-Commerce Analytics)
 ## 📁 Repository
 - [Dataset](./Dataset.csv)
 - [Customer Segmentation Dataset](./customer_segmentation.csv)
-- [Analysis Notebook](./Discount_Analysis.ipynb)
+- [Analysis Notebook](./Ghairandi Al Abrar_Finpro.ipynb)
 
 ## 🎯 Business Problems & Project Goals
 <p align="justify">
