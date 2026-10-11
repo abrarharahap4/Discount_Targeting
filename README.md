@@ -8,7 +8,7 @@ Customer Segmentation To Improve Discount Rating (E-Commerce Analytics)
 ## 📁 Repository
 - [Dataset](./Dataset.csv)
 - [Customer Segmentation Dataset](./customer_segmentation.csv)
-- [Analysis Notebook](./Ghairandi_Al_Abrar_Finpro.ipynb)
+- [Analysis Notebook](./Ghairandi_Al_Abrar_Discount_Targeting.ipynb)
 
 ## 🎯 Business Problems & Project Goals
 Discounting is a common strategy to drive sales, but its actual impact on final profit is often unclear. The effectiveness of discounts may vary across customer segments and product categories, creating a need to understand whether higher discounts actually translate into proportional profit gains.
