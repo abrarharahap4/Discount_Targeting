@@ -41,9 +41,9 @@ Using over 51,000 transactions from a multi-category e-commerce platform, this p
   
 - **Segment profiles vary sharply**: High-value Repeat (8.9% of customers, 19.6% of profit, Rp 204 profit/customer) is the smallest but most valuable group; Repeat Mid-value (16.7% of customers, 23.3% of profit) shows repeat purchases at moderate spend; Recent One-timer (40.4% of customers, 30.9% of profit) is the largest segment and the strongest conversion candidate; Lost One-timer (34.1% of customers, 26.2% of profit, 252-day average recency) shows the lowest return probability.
   
-- **Discount efficiency varies significantly by segment**: Repeat Mid-value delivers the best ROI (Rp 0.75 profit per Rp 1 of discount spent), while High-value Repeat delivers the worst (Rp 0.47), the segment that needs discounts least is currently receiving them least efficiently.
+- **Discount efficiency varies significantly by segment**: Using **Profit Margin** as the primary metric and **Discount Efficiency** as a secondary descriptive measure. Repeat Mid-value leads on both (22.8% margin, 0.75 efficiency), while High-value Repeat ranks lowest (14.5% margin, 0.47 efficiency) despite the highest profit per customer. Lost and Recent One-timers sit in the middle (~18.6–18.7% margin, 0.60 efficiency). These gaps mainly reflect differences in basket size and customer value, not different discount rates. 
   
-- **Suggestion, discount budgets should be reallocated**: reduce discounts for High-value Repeat in favor of non-price loyalty benefits (free shipping, priority service), keep moderate discounts paired with bundling for Repeat Mid-value, offer time-limited second-purchase incentives for Recent One-timer, and minimize broad discounting for Lost One-timer in favor of selective win-back offers.
+- **Suggestion, discount budgets should be reallocated**: Shift discount intensity away from High-value Repeat customers (replace with non-price benefits) and Lost One-timers (limit discounts), maintain moderate discounts for Repeat Mid-value customers, and use limited time-bound discounts to convert Recent One-timers. Further validation through experimentation is still required before full implementation.
 
 ## 🗂️ Data Source 
 The raw (uncleaned) dataset that is used in this project can be downloaded through the link below
