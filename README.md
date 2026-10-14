@@ -2,7 +2,7 @@
 Customer Segmentation To Improve Discount Rating (E-Commerce Analytics)
 
 ## 📊 Interactive Dashboard
-<img width="1213" height="660" alt="image" src="https://github.com/user-attachments/assets/e75d18ce-fc0d-4a59-8cdb-97bebda6f8e9" />
+<img width="777" height="712" alt="image" src="https://github.com/user-attachments/assets/93557e0e-81b1-4fd0-8342-cda0e5e5913d" />
 
 
 ## 📁 Repository
